@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cct">
+    <file>img_topologia.jpg</file>
+  </qresource>
+</RCC>
